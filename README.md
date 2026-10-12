@@ -7,4 +7,4 @@ The whole idea is that it allows the cloud drives people pay for to be physical 
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6adc9cea-933f-46a9-8b43-4009fc681c1f" /><br>
 <img width="222" height="171" alt="image" src="https://github.com/user-attachments/assets/e1ec1d59-cbe7-4cea-9816-8093a47d0bdb" />
 
-## Made by Noah Olomu
+
