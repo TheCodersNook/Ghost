@@ -17,7 +17,7 @@
 | [6x6mm Micro Push Switch Touch Button](https://www.aliexpress.us/item/3256803751930095.html) | Boot and Flash | 1 | $2.91 | $2.91 | [Aliexpress](https://www.aliexpress.us/item/3256803751930095.html) |
 | [ESD suppressor](https://www.aliexpress.us/item/2251832620793470.html) | Computers 5v to 3.3vs | 1 | $1.52 | $1.52 | [Aliepxress](https://www.aliexpress.us/item/2251832620793470.html) |
 | **Parts subtotal** | — | — | — | **$17.63** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$17.63** | — |
+| **Tax & shipping** | — | — | — | **$1.99** | — |
+| **Total** | — | — | — | **$19.62** | — |
 
-$12.37 left of the tier's funding.
+$10.38 left of the tier's funding.
