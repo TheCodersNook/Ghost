@@ -15,12 +15,11 @@
 | [ESP32-S3 Development Board DevKitC-1](https://www.aliexpress.us/item/3256811905724568.html) | Main processing | 1 | $1.09 | $1.09 | [Aliexpress](https://www.aliexpress.us/item/3256811905724568.html) |
 | [USB 2.0 4Pin A Type Male SMT SMD](https://www.aliexpress.us/item/3256808769871123.html) | Allows the esp32 to be plugged in | 1 | $1.09 | $1.09 | [Aliexpress](https://www.aliexpress.us/item/3256808769871123.html) |
 | [USBLC6-2SC6 SOT23 USBLC6 UL26 ESD suppressor](https://www.aliexpress.us/item/2251832620793470.html) | Send static electricity to ground instead of the module | 1 | $1.09 | $1.09 | [Aliexpress](https://www.aliexpress.us/item/2251832620793470.html) |
-| [Ceramic Capacitors](https://www.aliexpress.us/item/3256802783271268.html) | Capacitors | 1 | $1.09 | $1.09 | [Aliexpress](https://www.aliexpress.us/item/3256802783271268.html) |
 | [LED Red Yellow Green White](https://www.aliexpress.us/item/3256812039593783.html) | Led status light | 1 | $1.09 | $1.09 | [Aliexpress](https://www.aliexpress.us/item/3256812039593783.html) |
 | [Fixed Resistors](https://www.aliexpress.us/item/3256808152582222.html) | Resistors | 1 | $14.00 | $14.00 | [Aliexpress](https://www.aliexpress.us/item/3256808152582222.html) |
 | [6x6mm Micro Push Switch Touch Button](https://www.aliexpress.us/item/3256803751930095.html) | Boot and Flash | 1 | $1.09 | $1.09 | [Aliexpress](https://www.aliexpress.us/item/3256803751930095.html) |
-| **Parts subtotal** | — | — | — | **$20.54** | — |
+| **Parts subtotal** | — | — | — | **$19.45** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$20.54** | — |
+| **Total** | — | — | — | **$19.45** | — |
 
-$9.46 left of the tier's funding.
+$10.55 left of the tier's funding.
