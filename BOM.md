@@ -9,5 +9,3 @@
 | **Parts subtotal** | — | — | — | **$17.63** | — |
 | **Tax & shipping** | — | — | — | **$1.99** | — |
 | **Total** | — | — | — | **$19.62** | — |
-
-$10.38 left of the tier's funding.
