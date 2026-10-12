@@ -1,4 +1,4 @@
-# Ghost
+# Ghost Drive
 
 ## Idea
 The whole idea is that it allows the cloud drives people pay for to be physical and work with any device so long as the ghost drive is connected to wifi. The ghost drive never holds any data but only allows for the file paths to be seen, new files to be added to cloud via the ghost drive.
